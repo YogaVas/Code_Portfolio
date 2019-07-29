@@ -22,7 +22,7 @@ Acknowledgments
 
 Materials, demos were from the following were used putting this code portfolio together:
 
-^^ Prof. Olga Scriver Weekly lectures
+^^ Prof.  Olga Scriver Weekly lectures, Department of Analytics, HU
 ^^ Exploratory Data Analysis with R BY Roger D. Peng
 ^^ YaRrr! The Pirate’s Guide to R BY Nathaniel D. Phillips
 ^^ Chapter 7. Practical Statistics for Data Scientists by Andrew Bruce, Peter Bruce. 2017. Publisher: O'Reilly Media, Inc.
