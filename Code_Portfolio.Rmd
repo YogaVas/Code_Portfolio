@@ -2,16 +2,16 @@
 title             : "**Code Portfolio - EDA using R**"
 shorttitle        : "Exploratory Data Analysis - Consolidated Topics by R"
 author: 
-  - name          : "Yogananth Vasudevan"
+  - name          : "Clint Westwood"
     affiliation   : "Harrisburg University"
     corresponding : yes
     address       : "326 Market St, Harrisburg, PA 17101"
-    email         : "YVasudevan@my.harrisburgu.edu"
+    email         : "CWestwood@my.harrisburgu.edu"
 affiliation:
   - id            : "1"
     institution   : "Harrisburg University"
 authornote: |
-  **Student: Yogananth Vasudevan** --
+  **Student: Clint Westwood** --
   **Professor: Dr.Olga Schrivner - Exploratory Data Analysis, Department of Analytics**
 bibliography      : ["r-references.bib"]
 floatsintext      : no
